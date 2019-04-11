@@ -433,7 +433,7 @@ header.site-header nav {
             font-weight: bold;
             font-family: $sans;
             font-style: normal;
-            color: $grey-light;
+            color: $grey-dark-medium;
             text-transform: uppercase;
             vertical-align: middle;
         }
@@ -618,7 +618,7 @@ footer {
     font-size: $fsp;
     color: $white;
     position: relative;
-        
+
     // Contain that ish
     section {
         @include column(10);
@@ -626,7 +626,7 @@ footer {
         display: block;
         margin: 0 auto;
     }
-    
+
     small {
         font-size: ($fs6);
         text-align: center;
@@ -641,7 +641,7 @@ footer {
             color: transparentize($white, .2);
         }
     }
-    
+
     .list-title {
         margin-bottom: $lh/2;
         border-bottom: 2px solid $link;
@@ -680,7 +680,7 @@ footer {
             }
         }
     }
-    
+
     .social {
         position: absolute;
         top: 109px;

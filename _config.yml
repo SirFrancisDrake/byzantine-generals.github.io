@@ -1,5 +1,5 @@
 title:            Византийские генералы
-digest_title:            Византийский дайджест
+digest_title:     ByzantineBlock
 description:      Византийские генералы
 
 # Owner/author information
@@ -29,7 +29,7 @@ links:
   - title: Миссия
     url: /about
   - title: Дайджест
-    url: /postslist
+    url: /articles
   - title: Мероприятия
     url: /events
   - title: Контакты

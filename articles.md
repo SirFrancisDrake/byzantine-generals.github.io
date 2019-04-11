@@ -1,6 +1,7 @@
 ---
-layout: home
-permalink: /articles/index.html
-title: "Articles"
-tags: [blog, graphic design]
+layout: articles
+title: "Наши выпуски"
+digest_title:            Византийский дайджест
+image:
+  feature: typewriter.jpg
 ---
